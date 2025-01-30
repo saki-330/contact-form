@@ -72,7 +72,7 @@
                     </div>
                     <div class="form__group-content">
                         <div class="form__input--textarea">
-                            <taxtarea name="content" placeholder="資料をいただきたいです"></taxtarea>
+                            <textarea name="content" placeholder="資料をいただきたいです"></textarea>
                         </div>
                     </div>
                 </div>
